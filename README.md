@@ -7,7 +7,7 @@ Started a JSON server on http://localhost:3000/users.
 GET Request to the local server – Fetchin  list of users from http://localhost:3000/users.
 screenshot showing alice and bob 
 # Post request added a new user charlie to the local server 
-screenshot for confirmation of response is included
+screenshot includes confirmation of response
 # Get request - public api 
 Queried a Public API poke api indexing pikachu of pokemon 
 https://pokeapi.co/api/v2/pokemon/pikachu
